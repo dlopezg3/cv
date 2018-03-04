@@ -1,0 +1,22 @@
+.full-name {
+  font-size: 30px;
+  font-family: 'Karma', serif;
+  padding: 10px;
+  margin-bottom: 10px;
+
+}
+
+.name {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-weight: 300;
+}
+.last-name {
+  font-weight: 700;
+}
+
+.profesion {
+  color: #0F5257;
+  font-size: 20px;
+  font-weight: 300;
+}

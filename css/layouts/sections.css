@@ -1,0 +1,15 @@
+.subtitle {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.section {
+  text-align: center;
+  padding: 0px 80px;
+  margin: 20px 0;
+}
+
+.section-text {
+  text-align: justify;
+  padding: 0px 10px;
+}

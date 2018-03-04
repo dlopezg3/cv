@@ -1,0 +1,15 @@
+.linkedin {
+  color: #0F5257;
+  font-family: 'Karma', serif;
+}
+
+.contact {
+  padding: 0 10px;
+}
+
+.contact-info {
+  padding: 0px 100px;
+  text-align: left;
+  position: relative;
+  left: 20px;
+}

@@ -1,0 +1,24 @@
+.avatar {
+  height: 110px;
+  width: 110px;
+  border-radius: 100px;
+  align-items: center;
+  margin: 0vh;
+}
+
+.avatar-container {
+  border-radius: 100px;
+  height: 135px;
+  width: 135px;
+  border: 2px solid #0F5257;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.big-avatar-container {
+  padding-top: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
