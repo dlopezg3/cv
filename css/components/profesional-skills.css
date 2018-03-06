@@ -1,6 +1,6 @@
 
 .progress-bar-back {
-  border: 1px solid #89D2DC;
+  border: 1px solid #0F5257;
   width: 90%;
   height: 10px;
   border-radius: 50px;
@@ -11,8 +11,8 @@
 .progress-bar-front {
   height: 100%;
   border-radius: 50px;
-  background: #89D2DC;
-  border: 1px solid #89D2DC;
+  background: #0F5257;
+  border: 1px solid #0F5257;
 }
 
 .professional-skill-title {
